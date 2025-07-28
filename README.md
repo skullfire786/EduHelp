@@ -1,5 +1,3 @@
-# EduHelp
-Peer-to-peer academic support product idea
 # EduHelp – A Peer-to-Peer Academic Support Platform
 
 EduHelp is a personal initiative to solve two common student challenges:
@@ -31,4 +29,4 @@ EduHelp is a platform (concept stage) where:
 
 ## 📄 Project File
 
-See `EduHelp_Project_Proposal.pdf` for full details.
+See `EduHelp-A-Peer-to-Peer-Academic-Support-Platform (2).pdf` for full details.
