@@ -29,4 +29,4 @@ EduHelp is a platform (concept stage) where:
 
 ## 📄 Project File
 
-See `EduHelp-A-Peer-to-Peer-Academic-Support-Platform (2).pdf` for full details.
+See `EduHelp_Project_Proposal.pdf` for full details.
